@@ -1,4 +1,5 @@
-Obesity Insights: Data-Driven Health Analysis and Meal Recommendation
+# Obesity Insights: Data-Driven Health Analysis and Meal Recommendation
+
 Objective:
 Understand factors affecting health and obesity levels to derive insights and build applications.
 
